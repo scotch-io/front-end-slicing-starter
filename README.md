@@ -1,4 +1,4 @@
-# Less or Sass Starter
+# Front End Slicing Starter (LESS or SASS)
 
 This is a super easy to use LESS or SASS starter to get you editing LESS or SASS code in seconds.
 
@@ -9,6 +9,7 @@ Includes out-of-the-box:
 * Auto-minify that CSS
 * Auto-minify JavaScript
 * Build a local **webserver** with **live-reload** to test on in seconds
+* Bootstrap 3 Ready
 
 
 This project was built for [Scotch School](https://school.scotch.io).
